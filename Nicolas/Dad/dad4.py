@@ -1,0 +1,6 @@
+colors = input("Please enter 2 colors and 2 adjectives ")
+col = colors.split(",")
+print('The sky is%s'%col[-1])
+print('The grass is%s'%col[-2])
+print('The house is%s'%col[-3])
+print("The MacDonald's is %s"%col[-4])

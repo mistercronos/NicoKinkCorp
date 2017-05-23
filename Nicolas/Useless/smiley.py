@@ -1,0 +1,48 @@
+import time
+lo = input("Please enter the number of times you would like to see the expressions ")
+while lo > 0:
+    print "     *********  NATURAL"
+    print "    *         *"
+    print "   *           *"
+    print "  *  ||    ||   *"
+    print "  *             *    "
+    print "  *             *   "
+    print "   *  ______   *    "
+    print "    *         *     "
+    print "     *       *"
+    print "      *******"
+    time.sleep(0.35)
+    print "     *********   HAPPY"
+    print "    *         *"
+    print "   *           *"
+    print "  *  /\    /\   *"
+    print "  *             *    "
+    print "  *             *   "
+    print "   *  \____/   *    "
+    print "    *         *     "
+    print "     *       *"
+    print "      *******"
+    time.sleep(0.35)
+    print "     *********  SMIRKING"
+    print "    *         *"
+    print "   *           *"
+    print "  *  ||     __  *"
+    print "  *             *    "
+    print "  *             *   "
+    print "   *  ______/  *    "
+    print "    *         *     "
+    print "     *       *"
+    print "      *******"
+    time.sleep(0.35)
+    print "     *********  MUSTACHE"
+    print "    *         *"
+    print "   *           *"
+    print "  *  ||    ||   *"
+    print "  *             *    "
+    print "  *     ___     *   "
+    print "   * \_/   \_/ *    "
+    print "    *   ___   *     "
+    print "     *       *"
+    print "      *******"
+    time.sleep(0.35)
+    lo = lo - 1
